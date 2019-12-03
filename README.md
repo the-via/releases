@@ -1,1 +1,1 @@
-# config-releases
+# releases
