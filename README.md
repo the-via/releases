@@ -15,10 +15,10 @@ Then flash with QMK Toolbox, you can get the latest release [here](https://githu
 
 Download, install, plug in your keyboard. It's that easy.
 
-Download VIA Configurator [here](https://github.com/the-via/releases/releases/tag/v1.3.1).
+Download VIA Configurator [here](https://github.com/the-via/releases/releases/).
 
 ## Helpful
 
 Configure, test and design in one place - VIA is the last application you'll need for your keyboard.
 
-Read [the docs here](https://caniusevia.com/docs/specification/).
+Read the docs [here](https://caniusevia.com/docs/specification/).
