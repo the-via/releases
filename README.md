@@ -4,8 +4,6 @@
 
 Your keyboard's best friend
 
-![](https://raw.githubusercontent.com/the-via/website/master/static/img/icon.png)
-
 ## Friendly
 
 Compatible with over 150 keyboards and easily added to other QMK keyboards.
