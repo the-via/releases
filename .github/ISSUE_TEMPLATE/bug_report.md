@@ -27,6 +27,9 @@ If applicable, add screenshots to help explain your problem.
 - [ ] I am using https://usevia.app/
 - [ ] I am using the latest release of the desktop app from https://github.com/the-via/releases/releases/latest
 
+**Keyboard firmware VIA protocol**
+This can be found under Settings > Show Diagnostic Information
+
 **Desktop (please complete the following information):**
  - OS: [e.g. Linux, macOS, Windows]
  - Browser (if applicable) [e.g. chrome, safari]
